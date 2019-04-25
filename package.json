@@ -50,5 +50,9 @@
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
+  },
+  "dependencies": {
+    "identicon.js": "^2.3.3",
+    "js-sha1": "^0.6.0"
   }
 }
